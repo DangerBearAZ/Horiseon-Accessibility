@@ -1,4 +1,4 @@
-# Horisen Refrac 
+# Horisen Refactor
 
 ## SCOPE OF WORK 
 To update codebase that follows accessibility standards
